@@ -1,4 +1,4 @@
-# React + Vite dazda    dz
+# React + Vite dazda    dzg'"gf"rg"'g"'
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
